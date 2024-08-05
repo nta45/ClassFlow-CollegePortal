@@ -1,3 +1,3 @@
 ## MyNathan-Portal
-A Revamped version of Caldwell University's College Portal to track students' information and display information regarding courses, financial aid, events, academics and grades.
+A Revamped UI of Caldwell University's College Portal to track students' information and display information regarding courses, financial aid, events, academics and grades.
 <a href = "https://nta45.github.io/MyNathan-Portal/">Visit here</a>
